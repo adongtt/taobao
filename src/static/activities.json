@@ -1182,5 +1182,37 @@
 "elevation_gain": 4.0,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1748391715000,
+"name": "\u53a6\u95e8\u5e02 \u8d8a\u91ce\u8dd1",
+"distance": 19492.28834588733,
+"moving_time": "5:20:45",
+"type": "Trail Run",
+"start_date": "2025-05-28 00:21:55",
+"start_date_local": "2025-05-28 08:21:55",
+"location_country": "\u5929\u7afa\u5c71, \u6c88\u6d77\u9ad8\u901f, \u4e1c\u5b5a\u8857\u9053, \u6d77\u6ca7\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, \u4e2d\u56fd",
+"summary_polyline": "yi`uCioxnU}@^uEOaAbCaCfAuCLyC{@Uc@b@aCeAeAw@qCr@aB]sF]m@TsAK{BaF_DcC_@g@qAiAc@}DkHFeAi@aByAu@iC_Dj@aC{@cBcBYaAyAp@hAWzA_BUkDeBj@aCKi@aCYu@f@WbBuAUy@t@eBP]t@RlAyAbC]GQqAgASyA`AYrAoDf@m@dDcA[{@|AmAFiA|@H~Ba@pAgAm@cCKwD`@ClDsAv@v@tBEb@]b@_BTwApBh@`AQz@f@tA_@~@R~@tAfBb@hBi@rB{@XX~Ae@h@t@z@Fx@YP{Aa@i@bAyARg@rGP|@gA`A@~AuDt@aB~BmA@s@lCe@@cDaCq@XeBi@wCf@oBtB{DsDgCt@Ic@n@oBaBiMd@{Bc@SaBv@K_Bb@}@eAiB}@]_EnAw@iBkDG{AjEZpCo@ZcBkC?iAeAyALcB}@cAd@pAy@nBp@v@_@bB`@fCm@pAPx@o@vCP\\z@Dr@bCHjGu@m@qA{Dw@UD`EaAhC}B|@sAtB{BfBsBZqCnEgAZwAvBeFhBEXUKItCWKUjAc@CzAbCi@DoJoC_Ky@qEmAaAu@k@TBUiBm@GTY_@mCUtGfAEXn@SbGxBjKx@|HnBdBfAvGtI|FrCdArChCp@pDoArF|DVjCYnAd@~DoAjASz@H|BaArBMtBFhAzA~@f@bAGxCaAfFvAt@hAdDOdBq@lAn@^TpA|C?b@o@lCQ`BuBp@ONiCeBIy@u@k@iB\\yC`CGdD}@bAj@|@g@hBIh@{@lAQQkBxAsA~GfEd@kAfASEeDhAKd@w@hA`@t@e@hBl@jA_Du@mABi@xDWdAsBtAz@Zx@vAf@p@I~@yBb@AXrAvBtBRtB|C[WdCbChAfAIt@n@xAm@jD@hCLr@x@z@QPmBg@w@Zy@QiBZUvBpF^|DEdDlA`Ba@tDv@PRUOoAp@}Eg@mBbCZfBnE~@VdAU|@b@zAU^~AMnAh@bBYpAv@rAlAf@xAIxK~ErAoBd@gClCHhAo@~ATtG]bAoADuE`BkApA{BJy@a@yBfAeDbDUnAgCEsBH|B",
+"average_heartrate": 113.0,
+"average_speed": 1.0128494853669696,
+"elevation_gain": 1017.0,
+"source": "Garmin Connect",
+"streak": 2
+},
+{
+"run_id": 1748430792000,
+"name": "\u53a6\u95e8\u5e02 \u6b65\u884c",
+"distance": 1299.4906599537937,
+"moving_time": "0:19:16",
+"type": "Hike",
+"start_date": "2025-05-28 11:13:12",
+"start_date_local": "2025-05-28 19:13:12",
+"location_country": "G324, \u84ee\u82b1, \u4e1c\u5b5a\u8857\u9053, \u6d77\u6ca7\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, \u4e2d\u56fd",
+"summary_polyline": "kq|tC}xxnUCeAmOsW{DgQ_BwB}GuFcDwF]L",
+"average_heartrate": 94.0,
+"average_speed": 1.12412686847214,
+"elevation_gain": 6.0,
+"source": "Garmin Connect",
+"streak": 2
 }
 ]
