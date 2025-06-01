@@ -1230,5 +1230,21 @@
 "elevation_gain": 103.0,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1748676442000,
+"name": "\u8fea\u5e86\u85cf\u65cf\u81ea\u6cbb\u5dde \u5f92\u6b65",
+"distance": 2033.8098903299058,
+"moving_time": "0:30:53",
+"type": "Hike",
+"start_date": "2025-05-31 07:27:22",
+"start_date_local": "2025-05-31 15:27:22",
+"location_country": "S230, \u5efa\u5858\u9547, \u9999\u683c\u91cc\u62c9\u5e02, \u8fea\u5e86\u85cf\u65cf\u81ea\u6cbb\u5dde, \u4e91\u5357\u7701, \u4e2d\u56fd",
+"summary_polyline": "}kshDghk`R?{A`@c@l@GjBz@`@q@@hArAdBtAXUNTnEe@`@{AgAe@_F_A}A}AoA}@\\Gf@b@jF_@xLNpBvC|B~B?uEzC}Hp@wBo@aJ~J",
+"average_heartrate": 95.0,
+"average_speed": 1.0975768431354052,
+"elevation_gain": 60.0,
+"source": "Garmin Connect",
+"streak": 2
 }
 ]
