@@ -1246,5 +1246,21 @@
 "elevation_gain": 60.0,
 "source": "Garmin Connect",
 "streak": 2
+},
+{
+"run_id": 1748829677000,
+"name": "\u8fea\u5e86\u85cf\u65cf\u81ea\u6cbb\u5dde \u8d8a\u91ce\u8dd1",
+"distance": 25522.791696774762,
+"moving_time": "4:59:36",
+"type": "Trail Run",
+"start_date": "2025-06-02 02:01:17",
+"start_date_local": "2025-06-02 10:01:17",
+"location_country": "\u72ec\u514b\u5b97\u53e4\u57ce, \u6c60\u6148\u5361\u8857, \u9999\u683c\u91cc\u62c9\u5e02, \u5efa\u5858\u9547, \u9999\u683c\u91cc\u62c9\u5e02, \u8fea\u5e86\u85cf\u65cf\u81ea\u6cbb\u5dde, \u4e91\u5357\u7701, 674400, \u4e2d\u56fd",
+"summary_polyline": "kkwhDkvp_RXbAfBRRkAdAwApEoDhFyApC_BbZsIlE}ByDkAoAu@Ce@zJq\\yBuCeGf@gJ_@gBKwCiAqCAcBs@aIu@iJJ_K_GmD}JeEaG}CcC{ByHaAc@kBeIgCmCnBgHjE_HlHeGb@kBQgCrJeC|EGfL{FjCsFO}CdBkFjF_E~EaBz@iAdHcA|EcCtDcGG{Bb@aBpEwEb@eBpNyEzCCv@sA}@yAReBlAZrEcBzBRO_FrE{CtCR`AcAt@A|@eIdFsTPsDx@_ArAWpAoFvCoCpA}@bCa@lCgBg@aAu@_MBwFtBcJpCkHfG}GvKsEzF_IzDs@hJJzEqDlApBzBf@zA~CbAt@hDgNhJkAx@oBlb@`AvJpAlEvAr@tMxBxEHrAsB|@YvCdDfGaAn@cBWuETqErAkBtA}JnBf@d@ZfDrBvHaCdCkAbDw@PQrAu@^E`CkExD_AXYdC}CEuBmBa@BaG`CqAbDmE|BcCzCcBHoBc@kBt@q@ISzC{AhEI`LyBnEj@rBJbGiDBAjCcBtDgD`B{B\\sFKoBfAkABCb@cF_AM`@`@v@{@ISr@mBh@_B?\\^sA[gFvEeCh@hIbNbJn[eCVkAt@}AFgHbCkIlEqFa@qAo@Uq@}EPwCzAiAGwExCoEz@aElDkGj@oAz@Fj@bBt@|EjHrBz@|AFz@jB{B`DD`Da@b@bA`EsAQiAV[rBsCt@cAMk@y@yEe@r@vANdFf@lAo@z@Dr@_@r@XnKa@x@S`E{ExGsDxBuFx@uIWwZeE}IJeGmDfBdDfAbYa@lYXxPSVm@OmA}A",
+"average_heartrate": 158.0,
+"average_speed": 1.41982597334083,
+"elevation_gain": 855.0,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
