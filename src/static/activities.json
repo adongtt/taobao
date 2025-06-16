@@ -1358,5 +1358,53 @@
 "elevation_gain": 752.0,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1749975223000,
+"name": "\u53a6\u95e8\u5e02 \u5f92\u6b65",
+"distance": 6720.329950952881,
+"moving_time": "2:07:47",
+"type": "Hike",
+"start_date": "2025-06-15 08:13:43",
+"start_date_local": "2025-06-15 16:13:43",
+"location_country": "\u66fe\u539d\u57b5\u793e\u533a, \u6ee8\u6d77\u8857\u9053, \u601d\u660e\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, 361005, \u4e2d\u56fd",
+"summary_polyline": "}abtCqv~oUe@eBm@Ew@~@qDXgC~AuB_@Y`@s@_AeBBmAz@Cr@dCzDPfAo@SHt@kArBkBj@i@z@gEvA{BD?b@fAn@r@ArAhALzCdBrBQQz@Dm@jAbAzAzBuBvC^jCIlFsCb@\\jAnF~CbAPf@wDlHx@zBiCdE}@`GYP}@o@iAd@kAtEOtJ\\XDbAOjBcAbCTPn@|SjAxEY|B{@`Bg@@Kv@BfGbAtHD~CmAhAoDt@_BG{EbCgCE[r@oDfLeBjL?vAvB`@ZrBuA|VmD~W}@~BVz@QxAuE~FyCUc@kB",
+"average_heartrate": 93.0,
+"average_speed": 0.8765266663561864,
+"elevation_gain": 130.0,
+"source": "Garmin Connect",
+"streak": 1
+},
+{
+"run_id": 1749989285000,
+"name": "\u9a91\u884c",
+"distance": 6032.33018439565,
+"moving_time": "1:13:00",
+"type": "Ride",
+"start_date": "2025-06-15 12:08:05",
+"start_date_local": "2025-06-15 20:08:05",
+"location_country": "\u6f14\u6b66\u5927\u6865, \u7389\u6c99\u5761, \u53a6\u6e2f\u8857\u9053, \u601d\u660e\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, 361005, \u4e2d\u56fd",
+"summary_polyline": "q_dtCqdvoU}GpHsObMyHhCoA[{A{AeAh@FdCs@nBuO`Hy@JqAiBkIlHuGjC_AGaIpMaD~BXTc@o@mv@rUsKkCkD_BqFaIqB_M_BOi@aAggAfCq@}@o@gV",
+"average_heartrate": 91.0,
+"average_speed": 1.3772443343369063,
+"elevation_gain": 8.0,
+"source": "Garmin Connect",
+"streak": 1
+},
+{
+"run_id": 1750028962000,
+"name": "\u53a6\u95e8\u5e02 \u9a91\u884c",
+"distance": 2948.6278963851673,
+"moving_time": "0:24:21",
+"type": "Ride",
+"start_date": "2025-06-15 23:09:22",
+"start_date_local": "2025-06-16 07:09:22",
+"location_country": "\u4e94\u7f18\u6e7e\u8def, \u7a46\u539d\u793e, \u91d1\u5c71\u8857\u9053, \u6e56\u91cc\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, 361009, \u4e2d\u56fd",
+"summary_polyline": "qlrtCi{epUw@xMmBtFs@nAq@NcHcEyCyDu@aFqFsK_CmJVZd@]vDTpHqDh@gAHaHpA}@tCjHr@Y`@R|ArEjA~@p@BzCsApDYhA`B^QR\\AYo@\\yAmBe@v@`AlC]m@w@Fw@hA",
+"average_heartrate": 80.0,
+"average_speed": 2.0182258017694505,
+"elevation_gain": 12.0,
+"source": "Garmin Connect",
+"streak": 2
 }
 ]
