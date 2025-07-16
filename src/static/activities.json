@@ -1614,5 +1614,21 @@
 "elevation_gain": 33.0,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1752573051000,
+"name": "\u53a6\u95e8\u5e02 \u8d8a\u91ce\u8dd1",
+"distance": 2554.046462513362,
+"moving_time": "0:48:14",
+"type": "Trail Run",
+"start_date": "2025-07-15 09:50:51",
+"start_date_local": "2025-07-15 17:50:51",
+"location_country": "\u83b2\u524d\u8857\u9053, \u53a6\u95e8\u5e02, \u601d\u660e\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, 361008, \u4e2d\u56fd",
+"summary_polyline": "wkhtC}}cpUt@vAU|Bn@Hs@t@oBn@g@Mu@dA_@?zAeAp@H`BsATuCs@w@`BqE}Br@qDEwBmB_@kDwB}BCmP`EaBZeAaDyHa@cJoE|@sHRoAb@sBa@iEFm@x@Xt@",
+"average_heartrate": 104.0,
+"average_speed": 0.8825316041856813,
+"elevation_gain": 103.0,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
