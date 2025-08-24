@@ -2014,5 +2014,37 @@
 "elevation_gain": 225.0,
 "source": "Garmin Connect",
 "streak": 2
+},
+{
+"run_id": 1755910784000,
+"name": "\u53a6\u95e8\u5e02 \u8d8a\u91ce\u8dd1",
+"distance": 5436.330210199817,
+"moving_time": "2:02:17",
+"type": "Trail Run",
+"start_date": "2025-08-23 00:59:44",
+"start_date_local": "2025-08-23 08:59:44",
+"location_country": "\u6587\u5c4f\u8def, \u6ee8\u6d77\u8857\u9053, \u53a6\u95e8\u5e02, \u601d\u660e\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, 361004, \u4e2d\u56fd",
+"summary_polyline": "qbgtCys|oUn@@nAbAp@MJg@bAVVQrCtDOn@h@bALvBa@fCaAnA]rD_CyA}EdCU~@aAL]|@It@Zd@{EdDs@dBaA?oBjA{ANuAjCUzA~@rB{@tAVp@f@ANf@lA`@DnAbB~CFd@_@@Jq@Sp@nBQ\\dBfApAGt@lBx@QlAvArB^`Nx@t@QzBXnAfEjDfDoAhDj@b@l@cAvBPnAhE\\h@w@Z|A~@tAvAU|Av@KpEzChBPlA`@Aj@{@LnBpDb@UHZh@j@Di@n@n@NA^nAL@^b@[XnA^@M^n@Ot@~@^cBnAa@F`AfCfAt@vAOzA`@tApArCxAHD`Cz@fBhEZCv@dDl@bB`DQv@",
+"average_heartrate": 100.0,
+"average_speed": 0.7409472822951911,
+"elevation_gain": 219.0,
+"source": "Garmin Connect",
+"streak": 3
+},
+{
+"run_id": 1755924612000,
+"name": "\u53a6\u95e8\u5e02 \u6b65\u884c",
+"distance": 2708.803796730389,
+"moving_time": "0:42:04",
+"type": "Hike",
+"start_date": "2025-08-23 04:50:12",
+"start_date_local": "2025-08-23 12:50:12",
+"location_country": "Juicy Bakery, 12, \u5927\u5b66\u8def, \u6c99\u5761\u5c3e, \u53a6\u6e2f\u8857\u9053, \u601d\u660e\u533a, \u53a6\u95e8\u5e02, \u798f\u5efa\u7701, 361005, \u4e2d\u56fd",
+"summary_polyline": "exdtCccvoUg@~@_C|@{CxCTzAz@nA?jAyGjCSpAv@rASp@}AyBm@}BqJlD`@hDm@rBeAN_BvBkC`@qJbHsG`BoE`ImJnLkCHyD}@gHbCZ_A",
+"average_heartrate": 87.0,
+"average_speed": 1.0732186199407245,
+"elevation_gain": 5.0,
+"source": "Garmin Connect",
+"streak": 3
 }
 ]
