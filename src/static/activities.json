@@ -2302,5 +2302,21 @@
 "elevation_gain": 28.0,
 "source": "Garmin Connect",
 "streak": 3
+},
+{
+"run_id": 1757726745000,
+"name": "\u4e5d\u6c5f\u5e02 \u8d8a\u91ce\u8dd1",
+"distance": 13359.390891948306,
+"moving_time": "2:45:11",
+"type": "Trail Run",
+"start_date": "2025-09-13 01:25:45",
+"start_date_local": "2025-09-13 09:25:45",
+"location_country": "Songshu Road, \u6a44\u6984\u793e\u533a, \u726f\u5cad\u9547, \u5e90\u5c71\u5e02, \u4e5d\u6c5f\u5e02, \u6c5f\u897f\u7701, \u4e2d\u56fd",
+"summary_polyline": "shnsDiuzbU_DEaDtB{@oAgBpCf@s@]B@\\Am@CpAq@RHtAd@Cm@LSc@N`@SU`@BAe@s@I{DxFcA|D}Af@oBrBG|DUFXGSiAIlASPKYTG@`@u@??v@aeB`hB{NrP^l@_@H|@EAf@x@Ts@TeA[kA`AYb@dAvAcAuATk@q@b@iAK}HtI_EnLIQ_An@}A{@uAxAy@fEiAi@_AvCaCH_@b@[a@\\@Fv@y@Xc@CAq@wDhAn@@u@y@|@CJ~@a@Rg@?CgAc@?MpAEo@v@GK_@nB]x@z@zBGJ}@xBq@PNL]D~@HqBiF{DwCkFeAy@{@cCqByBmByG]SwAv@Ki@IPX_@Kv@Fe@YRXL]WtDrAt@fDrBvBx@hChBjBbAdCrGpFf@Hh@s@`Aj@r@iEpA}A|Az@nA_@`EuLfI}IhA_C?m@jAzAlDIf@y@@iB]]y@NQy@SnCYsAxsBwvBpBS_@gCNmBlBmBrB{@jA}EhIcLKaCl@wBMqBXkCeBS}@iBZtA",
+"average_heartrate": 89.0,
+"average_speed": 1.3479357170768143,
+"elevation_gain": 1085.0,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
