@@ -2702,5 +2702,37 @@
 "elevation_gain": 270.0,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1761199526000,
+"name": "\u676d\u5dde\u5e02 \u8d8a\u91ce\u8dd1",
+"distance": 2308.6416076550645,
+"moving_time": "0:42:40",
+"type": "Trail Run",
+"start_date": "2025-10-23 06:05:26",
+"start_date_local": "2025-10-23 14:05:26",
+"location_country": "\u89e3\u653e\u8def, \u5cb3\u738b\u8def\u793e\u533a, \u6e56\u6ee8\u8857\u9053, \u4e0a\u57ce\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, 310009, \u4e2d\u56fd",
+"summary_polyline": "ovswD}`l|UPdF}Gt@Pl@F[{FdCJm@}EE@^Jg@es@zDe@d@}Ag@sC@a@x@CbCi@U_@wCaID{ATCxBU}@\\hBYbBG_BAZ_@u@",
+"average_heartrate": 66.0,
+"average_speed": 0.9018131279902596,
+"elevation_gain": 2.0,
+"source": "Garmin Connect",
+"streak": 1
+},
+{
+"run_id": 1761208166000,
+"name": "\u676d\u5dde\u5e02 \u8d8a\u91ce\u8dd1",
+"distance": 7322.093429693242,
+"moving_time": "2:24:42",
+"type": "Trail Run",
+"start_date": "2025-10-23 08:29:26",
+"start_date_local": "2025-10-23 16:29:26",
+"location_country": "Boxing Cat Brewery (Busi Beer Bar), 34, \u72ee\u864e\u6865\u8def, \u7687\u4eb2\u82d1\u793e\u533a, \u5929\u6c34\u8857\u9053, \u62f1\u5885\u533a, \u676d\u5dde\u5e02, \u6d59\u6c5f\u7701, 310006, \u4e2d\u56fd",
+"summary_polyline": "uyvwD}ek|UnAlIrLgBdBxU|I_Bx@pCt@n@x@UrAp@dC[dMmE|BmCBeCtAwBnF{CPRpCaCDwDz@v@zEcDl@?I}@]r@^o@^^t@kAhBUMaCa@@fBcCmAh@i@e@eCR{@z@}@o@aC\\G~D`APv@Ye@H`C`BMe@Xq@XODl@Y_@ET]iAGmBXk@bDSfGt@tBqBjD@a@gAXwAc@{Bf@kApE?}@~Av@DeAHhASmAXr@MOUZnARcDsN?EeL_Ce@eAb@j@?Pa@hBAQ_CXpAT?]h@b@f@NzCUdRwClAkBa@wA^oAUqAz@iCiANhSWoJ^eA{@mLLsHfK~B`CPpA[rAj@jBWnABl@d@y@Q",
+"average_heartrate": 68.0,
+"average_speed": 0.8433648271934164,
+"elevation_gain": 33.0,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
